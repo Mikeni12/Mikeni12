@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![My Codewars Profile Badge](https://www.codewars.com/users/Mikeni12/badges/large)
+This is my Codewars Profile Badge, current status: 
+![codewars](https://www.codewars.com/users/Mikeni12/badges/large)
 
 <!--
 **Mikeni12/Mikeni12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
