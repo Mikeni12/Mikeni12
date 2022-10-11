@@ -1,7 +1,10 @@
 ### Hi there 👋
+I'm a distrohopper who develops mobile apps for Android
 
-This is my Codewars Profile Badge, current status: 
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 
+I also like to solve challenges, this is my Codewars Profile Badge, current status:
 
 ![codewars](https://www.codewars.com/users/Mikeni12/badges/large)
 
